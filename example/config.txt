@@ -1,0 +1,2 @@
+Prefix plugins/MakeScaleFree/example/
+Plugin MakeScaleFree inputfile size.txt outputfile scalefree.gml
